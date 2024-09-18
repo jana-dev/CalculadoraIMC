@@ -20,3 +20,7 @@ Este projeto demonstra os seguintes conceitos de Kotlin:
 * **Widgets:** O projeto usa widgets como `EditText`, `Button` e `TextView` para criar a interface do usuário.
 * **Edge-to-Edge:** O app utiliza `enableEdgeToEdge()` e `ViewCompat.setOnApplyWindowInsetsListener` para estender o conteúdo da tela até as bordas do dispositivo, proporcionando uma experiência imersiva.
 * **Padding:**  Ajusta o padding do layout para acomodar as barras do sistema, garantindo que o conteúdo não seja obscurecido.
+
+(app/src/main/res/drawable/tela1.png)
+(app/src/main/res/drawable/tela2.png)
+
